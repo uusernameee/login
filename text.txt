@@ -1,0 +1,6 @@
+install express, mongoose & hbs.
+Folder structure:src ,iske andar-->db,models,app.js.
+connect ro express.
+db me conn.js:- to connect express and database.
+index.html banao phr del
+create views....(template engine)
